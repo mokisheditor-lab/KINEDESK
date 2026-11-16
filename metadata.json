@@ -1,0 +1,10 @@
+{
+  "name": "KineDeck",
+  "description": "Multi-track PC desktop video editor with real-time canvas compositing, chroma key, keyframes, transitions, audio mixing, and video export.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
